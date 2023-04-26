@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://chess.fluoritestudio.com/
+
+# Sitemaps
+Sitemap: https://chess.fluoritestudio.com/sitemap.xml
