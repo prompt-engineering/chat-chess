@@ -16,6 +16,8 @@ Join us:
 
 ## Local Usage
 
+### Be very careful that ChatGPT will make invalid moves and the server will retry calling OpenAI API until it gets a valid move (for now), and all those requests are billed.
+
 1. Clone [ChatChess](https://github.com/prompt-engineering/chat-chess)。
 2. Run `npm install`
 3. Run `npm run dev` to serve front-end
