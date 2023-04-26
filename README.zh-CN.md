@@ -5,7 +5,7 @@
 
 演示: WIP
 
-![截图]()
+![截图](https://chatchessassets.s3.ap-east-1.amazonaws.com/screenshots/Screenshot+2023-04-26+at+19.16.29.png)
 
 [English](./README.md) | 简体中文
 
