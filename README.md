@@ -8,7 +8,7 @@ English | [简体中文](./README.zh-CN.md)
 
 Online Demo: WIP
 
-![Screenshot]()
+![Screenshot](https://chatchessassets.s3.ap-east-1.amazonaws.com/screenshots/Screenshot+2023-04-26+at+19.12.40.png)
 
 Join us:
 
