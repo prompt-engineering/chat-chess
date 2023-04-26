@@ -11,6 +11,8 @@
 
 ## 本地搭建
 
+### 请注意 ChatGPT 会随机给出不符合规则的棋，服务器会无限重复调用 OpenAI 直到得到符合规则的结果。如果你是付费用户，这些请求都会计费。
+
 1. 从 GitHub 克隆 [ChatChess](https://github.com/prompt-engineering/chat-chess)。
 2. 执行 `npm install`
 3. 运行 `npm run dev` 开启前端
